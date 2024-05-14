@@ -1,6 +1,6 @@
 ### Olá, meu nome é Cauan Gomes
 
-- 🌱 Atualmente estou estudando ADS no SENAI e na Universidade São Francisco
+- 🌱 Faço Faculdade na Universidade São Francisco
 - 💬 Tenho 18 anos 
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Curioso: Sou apaixonado pelo Design de Front-End
