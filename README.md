@@ -1,7 +1,7 @@
 ### Olá, meu nome é Cauan Gomes
 
-- 🌱 Atualmente estou estudando Back-End
-- 💬 Ask me about ...
+- 🌱 Atualmente estou estudando ADS no SENAI e na Universidade São Francisco
+- 💬 Tenho atualmente 18 anos e pretendo me tornar um Full-Stack
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Curioso: Sou apaixonado pelo Design de Front-End
   
