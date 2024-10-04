@@ -3,7 +3,7 @@
 - 🌱 Faço Faculdade na Universidade São Francisco
 - 💬 Tenho 18 anos 
 - 😄 Pronouns: ele/dele
-- ⚡ Fato Curioso: Sou apaixonado pelo Design de Front-End
+- ⚡ Fato Curioso: Gosto bastante de trabalhar com Design de Front-End
   
 <div>
 <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=CauanGl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
