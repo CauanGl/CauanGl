@@ -1,7 +1,7 @@
 ### Olá, meu nome é Cauan Gomes
 
 - 🌱 Faço Faculdade na Universidade São Francisco
-- 💬 Tenho 18 anos 
+- 💬 Tenho 20 anos 
 - 😄 Pronouns: ele/dele
 - ⚡ Fato Curioso: Gosto bastante de trabalhar com Design de Front-End
   
